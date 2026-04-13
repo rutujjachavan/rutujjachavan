@@ -45,12 +45,11 @@ Junior HRIS Analyst · SAP SuccessFactors · HR Data & Systems
 ### 💻 Projects
 
 | Project | Description | Tech |
-|--------|-------------|------|
-| 🗂️ [HRIS Dashboard](#) | Mock HR analytics dashboard with headcount, turnover & salary visuals | React · Recharts |
-| 📋 [SF Process Trainer](#) | Clickable SAP SuccessFactors workflow simulator for onboarding | HTML · CSS · JS |
-| 💰 [Comp Benchmarking Tool](#) | Upload CSV → get compa-ratio, percentiles, salary band charts | React · PapaParse |
-| ✅ [Rollout Checklist App](#) | HR system rollout tracker by phase and country | React |
-
+|--------|------------|------|
+| 📁 [HRIS Dashboard](https://github.com/your-username/hris-dashboard) | Mock HR analytics dashboard | React · Recharts |
+| 📄 [SF Process Trainer](https://github.com/your-username/sf-process-trainer) | Workflow simulator | HTML · CSS · JS |
+| 💰 [Comp Benchmarking Tool](https://github.com/your-username/comp-benchmarking) | Salary analysis tool | React · PapaParse |
+| ✅ [Rollout Checklist App](https://github.com/your-username/rollout-checklist) | Rollout tracker | React |
 > 🚧 Projects in progress — links will be updated as they go live
 
 ---
