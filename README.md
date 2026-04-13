@@ -10,7 +10,7 @@ Junior HRIS Analyst · SAP SuccessFactors · HR Data & Systems
 
 
 
- 📧 [rutujachavan385@gmail.com](mailto:rutujachavan385@gmail.com)
+📧 [rutujachavan385@gmail.com](mailto:rutujachavan385@gmail.com)
 <a href="https://www.linkedin.com/in/rutuja-chavan-821ab6219/">LinkedIn</a> ·
   Based in Nuremberg, Germany
 
