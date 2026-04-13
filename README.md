@@ -44,12 +44,12 @@ Junior HRIS Analyst · SAP SuccessFactors · HR Data & Systems
 
 ### 💻 Projects
 
-| Project | Description | Tech |
-|--------|------------|------|
-| 📁 [HRIS Dashboard](https://rutujjachavan.github.io/hris-dashboard) | [Code](https://github.com/rutujjachavan/hris-dashboard) | Mock HR analytics dashboard | React · Recharts |
-| 📄 [SF Process Trainer](https://rutujjachavan.github.io/sf-process-trainer/) | Workflow simulator | React · JS |(https://github.com/rutujjachavan/sf-process-trainer)| HTML · CSS · JS |
-| 💰 [Comp Benchmarking Tool](https://github.com/rutujjachavan/comp-benchmarking) | Salary analysis tool | React PapaParse |
-| ✅ [Rollout Checklist App](https://github.com/rutujjachavan/rollout-checklist) | Rollout tracker | React |
+| Project | Live Demo | Code | Description | Tech |
+|--------|----------|------|------------|------|
+| 📁 HRIS Dashboard | [View](https://rutujjachavan.github.io/hris-dashboard/) | [Code](https://github.com/rutujjachavan/hris-dashboard) | Mock HR analytics dashboard | React · Recharts |
+| 📄 SF Process Trainer | [View](https://rutujjachavan.github.io/sf-process-trainer/) | [Code](https://github.com/rutujjachavan/sf-process-trainer) | Workflow simulator | React · JS |
+| 💰 Comp Benchmarking Tool | — | [Code](https://github.com/rutujjachavan/comp-benchmarking) | Salary analysis tool | React PapaParse |
+| ✅ Rollout Checklist App | — | [Code](https://github.com/rutujjachavan/rollout-checklist) | Rollout tracker | React |
 > 🚧 Projects in progress — links will be updated as they go live
 
 ---
