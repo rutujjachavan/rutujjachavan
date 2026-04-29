@@ -48,7 +48,7 @@ Junior HRIS Analyst · SAP SuccessFactors · HR Data & Systems
 |--------|----------|------|------------|------|
 | 📁 HRIS Dashboard | [View](https://rutujjachavan.github.io/hris-dashboard/) | [Code](https://github.com/rutujjachavan/hris-dashboard) | Mock HR analytics dashboard | React · Recharts |
 | 📄 SF Process Trainer | [View](https://rutujjachavan.github.io/sf-process-trainer/) | [Code](https://github.com/rutujjachavan/sf-process-trainer) | Workflow simulator | React · JS |
-| 💰 Comp Benchmarking Tool | — | [Code](https://github.com/rutujjachavan/comp-benchmarking) | Salary analysis tool | React PapaParse |
+| 💰 Comp Benchmarking Tool | [View](https://comp-benchmarking-tool.vercel.app) | [Code](https://github.com/rutujjachavan/comp-benchmarking-tool) | Salary analysis tool | React · Recharts |
 | ✅ Rollout Checklist App | — | [Code](https://github.com/rutujjachavan/rollout-checklist) | Rollout tracker | React |
 > 🚧 Projects in progress — links will be updated as they go live
 
